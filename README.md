@@ -1,0 +1,1 @@
+# Basic stuff, navigate to different pages contact-us, open a server listening on port 8080 on localhost
